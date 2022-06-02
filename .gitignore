@@ -1,0 +1,9 @@
+venv
+data_old
+plots
+.idea
+*.pyc
+.DS_Store
+.env
+test.py
+test_new_STT_suggestion.py
